@@ -1,0 +1,13 @@
+.header, .footer {
+    background-color: bisque;
+    padding: 30px;
+}
+.navbar {
+    background-color: azure;
+    padding: 20px;
+}
+
+.main {
+    padding: 20 px;
+    flex: 1;
+}
